@@ -3,7 +3,7 @@
 > **A unified desktop application for managing AI coding assistant skills.**
 > Seamlessly organize, sync, and share skills for **Claude Code, Codex, Opencode** and other AI tools.
 
-![Version](https://img.shields.io/badge/version-1.0.3-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
+![Version](https://img.shields.io/badge/version-1.1.0-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
 
 [中文说明](./README_CN.md)
 

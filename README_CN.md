@@ -3,7 +3,7 @@
 > **一款用于管理 AI 编程助手技能（Skills）的统一桌面应用。**
 > 无缝组织、同步和共享 **Claude Code、Codex、Opencode** 及其他 AI 工具的技能。
 
-![Version](https://img.shields.io/badge/version-1.0.3-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
+![Version](https://img.shields.io/badge/version-1.1.0-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
 
 [English README](./README.md)
 
