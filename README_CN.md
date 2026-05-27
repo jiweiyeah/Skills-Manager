@@ -3,7 +3,7 @@
 > **一款用于管理 AI 编程助手技能（Skills）的统一桌面应用。**
 > 无缝组织、同步和共享 **Claude Code、Codex、Opencode** 及其他 AI 工具的技能。
 
-![Version](https://img.shields.io/badge/version-2.0.0-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
+![Version](https://img.shields.io/badge/version-2.0.3-blue) ![Downloads](https://img.shields.io/github/downloads/jiweiyeah/skills-manager/total?color=brightgreen&label=downloads) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
 
 [English README](./README.md)
 
@@ -80,7 +80,7 @@ WEBKIT_DISABLE_COMPOSITING_MODE=1 ./Skills-Manager_1.0.1_amd64.AppImage
 
 - [x] 核心功能（软链接同步、多工具支持等）。
 - [ ] 社区中心（Community Hub）– 分享和下载社区贡献的 Skills 等。
-- [x] 云端同步，更换设备后也可一键迁移原有的 Skills 等。
+- [ ] 云端同步，更换设备后也可一键迁移原有的 Skills 等。
 - [ ] 插件系统，支持更多 AI 工具扩展。
 - [ ] 集成 AI 对话界面，直接在应用内测试 Skills。
 
@@ -98,7 +98,6 @@ WEBKIT_DISABLE_COMPOSITING_MODE=1 ./Skills-Manager_1.0.1_amd64.AppImage
 | 微信赞赏码 | 支付宝赞赏码 |
 |---|---|
 | <img src="https://image.freeourdays.com/2024/WechatIMG276.jpg" alt="微信赞赏码" height="300" /> | <img src="https://image.freeourdays.com/zfb.jpg" alt="支付宝赞赏码" height="300" /> |
-| <img src="https://picui.ogmua.cn/s1/2026/03/26/69c53f4c5355c.webp" alt="微信群" height="300" /> | <img src="https://picui.ogmua.cn/s1/2026/03/26/69c53f4bb71c1.webp" alt="飞书群" height="300" /> |
 
 或通过 Ko-fi 支持：[ko-fi.com/yeheboo](https://ko-fi.com/yeheboo)
 

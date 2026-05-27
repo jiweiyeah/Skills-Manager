@@ -3,7 +3,7 @@
 > **A unified desktop application for managing AI coding assistant skills.**
 > Seamlessly organize, sync, and share skills for **Claude Code, Codex, Opencode** and other AI tools.
 
-![Version](https://img.shields.io/badge/version-2.0.1-blue) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
+![Version](https://img.shields.io/badge/version-2.0.3-blue) ![Downloads](https://img.shields.io/github/downloads/jiweiyeah/skills-manager/total?color=brightgreen&label=downloads) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey) ![Tech](https://img.shields.io/badge/built%20with-Tauri%202.0%20%2B%20React%2019-orange)
 
 [中文说明](./README_CN.md)
 
@@ -80,7 +80,7 @@ We are actively working on making Skills Manager better. Here is what we are pla
 
 - [x] Core features (e.g., soft link synchronization, multi-tool support).
 - [ ] Community Hub – Share and download community-contributed Skills, etc.
-- [x] Cloud synchronization, allowing one-click migration of existing Skills and more when changing devices.
+- [ ] Cloud synchronization, allowing one-click migration of existing Skills and more when changing devices.
 - [ ] Plugin system to support more AI tool extensions.
 - [ ] Integrated AI chat interface for testing Skills directly within the application.
 
@@ -98,7 +98,6 @@ If this project helps you, feel free to support via QR code.
 | WeChat Support QR | Alipay Support QR |
 |---|---|
 | <img src="https://image.freeourdays.com/2024/WechatIMG276.jpg" alt="WeChat Support QR" height="300" /> | <img src="https://image.freeourdays.com/zfb.jpg" alt="Alipay Support QR" height="300" /> |
-| <img src="https://picui.ogmua.cn/s1/2026/03/26/69c53f4c5355c.webp" alt="weixinqun" height="300" /> | <img src="https://picui.ogmua.cn/s1/2026/03/26/69c53f4bb71c1.webp" alt="feishuqun" height="300" /> |
 
 Or support via Ko-fi: [ko-fi.com/yeheboo](https://ko-fi.com/yeheboo)
 
