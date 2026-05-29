@@ -17,6 +17,7 @@
 
 - **🎯 统一管理**：在一个安全的位置集中管理所有的 AI Skills。
 - **🔄 智能同步**：自动化的软链接管理，确保您的工具始终使用最新版本的技能，无需手动复制文件。
+- **↔️ 跨工具同步流程**：查看建议中的 [一键同步流程](./docs/SYNC_WORKFLOW_CN.md)，用于在 Claude Code、Codex 和其他助手之间复制或链接 Skills。
 - **🎛️ 灵活控制**：无需删除源文件，即可随时针对特定工具启用或禁用某个 Skill。
 - **⚡ 极致性能**：基于 **Rust** 和 **Tauri 2.0** 构建，带来轻量级、秒开的极致体验。
 - **🛡️ 跨平台支持**：完美支持 macOS、Windows 和 Linux 系统。
@@ -79,6 +80,7 @@ WEBKIT_DISABLE_COMPOSITING_MODE=1 ./Skills-Manager_1.0.1_amd64.AppImage
 我们正在持续改进 Skills Manager，以下是我们未来的规划：
 
 - [x] 核心功能（软链接同步、多工具支持等）。
+- [ ] 用户安装 Skills 的跨工具一键同步，并将内置/系统 Skills 排在个人 Skills 之后。
 - [ ] 社区中心（Community Hub）– 分享和下载社区贡献的 Skills 等。
 - [ ] 云端同步，更换设备后也可一键迁移原有的 Skills 等。
 - [ ] 插件系统，支持更多 AI 工具扩展。

@@ -17,6 +17,7 @@ It uses a powerful **symlink synchronization mechanism**, allowing you to write 
 
 - **🎯 Unified Management**: Centralize all your AI skills in one secure location.
 - **🔄 Smart Synchronization**: Automatic symlink management ensures your tools always have the latest version of your skills without file duplication.
+- **↔️ Cross-Tool Sync Workflow**: See the proposed [one-click sync workflow](./docs/SYNC_WORKFLOW.md) for copying or linking skills between Claude Code, Codex, and other assistants.
 - **🎛️ Granular Control**: Enable or disable specific skills for individual tools without deleting the original files.
 - **⚡ High Performance**: Built with **Rust** and **Tauri 2.0** for a lightweight, blazing-fast experience.
 - **🛡️ Cross-Platform**: Native support for macOS, Windows, and Linux.
@@ -79,6 +80,7 @@ Designed for developers who care about performance and stability:
 We are actively working on making Skills Manager better. Here is what we are planning:
 
 - [x] Core features (e.g., soft link synchronization, multi-tool support).
+- [ ] One-click cross-tool sync for user-installed skills, with built-in/system skills sorted after personal skills.
 - [ ] Community Hub – Share and download community-contributed Skills, etc.
 - [ ] Cloud synchronization, allowing one-click migration of existing Skills and more when changing devices.
 - [ ] Plugin system to support more AI tool extensions.
