@@ -105,7 +105,7 @@ Or support via Ko-fi: [ko-fi.com/yeheboo](https://ko-fi.com/yeheboo)
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jiweiyeah/skills-manager&type=Date)](https://star-history.com/#jiweiyeah/skills-manager&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=jiweiyeah/skills-manager&type=Date)](https://star-history.dera.page/#jiweiyeah/skills-manager&Date)
 
 ---
 

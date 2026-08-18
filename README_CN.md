@@ -105,7 +105,7 @@ WEBKIT_DISABLE_COMPOSITING_MODE=1 ./Skills-Manager_<version>_amd64.AppImage
 
 ## 📈 Star 趋势图
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jiweiyeah/skills-manager&type=Date)](https://star-history.com/#jiweiyeah/skills-manager&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=jiweiyeah/skills-manager&type=Date)](https://star-history.dera.page/#jiweiyeah/skills-manager&Date)
 
 ---
 
