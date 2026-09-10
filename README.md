@@ -7,6 +7,14 @@
 
 [**Website**](https://skillsmanager.freeourdays.com/?ref=gh) · [中文说明](./README_CN.md)
 
+## 🤝 Sponsors
+
+**[Y-API](https://y-api.bestvirtualgoods.com/i/DNTXWYCU)** provides a unified API for models from DeepSeek, Qwen, GLM, Kimi, OpenAI, and more.
+
+- **Easy integration**: OpenAI-compatible, so you can keep using your existing OpenAI SDK and access multiple models with one API key.
+- **Flexible billing**: Pay per token, with no monthly fee or minimum spend.
+- **Easy to try**: Signup credits let you get started without a credit card.
+
 ## 📖 Introduction
 
 **Skills Manager** is a modern desktop application designed to solve the fragmentation of AI assistant skills configurations. Instead of managing skills and prompts separately for different tools, Skills Manager provides a central hub.

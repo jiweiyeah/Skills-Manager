@@ -7,6 +7,14 @@
 
 [**官网**](https://skillsmanager.freeourdays.com/zh/?ref=gh) · [English README](./README.md)
 
+## 🤝 赞助商
+
+**[Y-API](https://y-api.bestvirtualgoods.com/i/DNTXWYCU)** 提供统一的大模型 API，可接入 DeepSeek、通义千问 Qwen、智谱 GLM、Kimi、OpenAI 等模型。
+
+- **接入省心**：兼容 OpenAI 接口，可沿用现有 OpenAI SDK，一把 API 密钥即可调用多种模型。
+- **按需付费**：按 token 用量计费，无月费、无最低消费。
+- **轻松试用**：注册赠送试用额度，无需绑定信用卡即可开始体验。
+
 ## 📖 简介
 
 **Skills Manager** 是一款现代化的桌面应用程序，旨在解决 AI 助手的 Skills 配置碎片化的问题。它提供了一个中心化的枢纽，让您不再需要为不同的工具分别管理 Skills 技能。
